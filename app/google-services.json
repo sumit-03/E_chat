@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633665095375",
+    "firebase_url": "https://echat-930c1.firebaseio.com",
+    "project_id": "echat-930c1",
+    "storage_bucket": "echat-930c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633665095375:android:a132f0638b29c0a6",
+        "android_client_info": {
+          "package_name": "com.example.quantum.echat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633665095375-4b2h5jfvpl0j58umjsgo3h9vjr69tre5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quantum.echat",
+            "certificate_hash": "ed5fc7a45b2ae97706298ec6d2a521192a488478"
+          }
+        },
+        {
+          "client_id": "633665095375-t5thudtednimp6aq8g13f59lt0ij39jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUUAhAOqI2oWbNpvz15WmVyZO4CNzNcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633665095375-t5thudtednimp6aq8g13f59lt0ij39jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
